@@ -82,4 +82,10 @@ public interface ActivityMapper {
     //根据clueid查询市场活动
     List<Activity> selectActivityForDetailByClueId(String id);
 
+    //根据name模糊查询市场活动，并排除关联过的
+    List<Activity> selectActivityForDetailByNameClueId(Map<String,Object> map);
+
+    //根据Id查询市场活动明细
+    List<Activity> selectActivityForDetailByIds(String[] ids);
+
 }

@@ -484,17 +484,7 @@
 				<tbody>
 				<tr>
 					<td><input type="checkbox" /></td>
-					<td><a style="text-decoration: none; cursor: pointer;" onclick="window.location.href='workbench/clue/detailClue.do?id=59dadbf4e2294f46b8395801477599e7';">张三教授</a></td>
-					<td>动力节点</td>
-					<td>010-84846003</td>
-					<td>12345678901</td>
-					<td>广告</td>
-					<td>zhangsan</td>
-					<td>已联系</td>
-				</tr>
-				<tr class="active">
-					<td><input type="checkbox" /></td>
-					<td><a style="text-decoration: none; cursor: pointer;" onclick="window.location.href='detail.jsp';">李四先生</a></td>
+					<td><a style="text-decoration: none; cursor: pointer;" onclick="window.location.href='workbench/clue/detailClue.do?id=59dadbf4e2294f46b8395801477599e7';">刘先生</a></td>
 					<td>动力节点</td>
 					<td>010-84846003</td>
 					<td>12345678901</td>
