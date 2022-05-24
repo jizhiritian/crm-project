@@ -56,5 +56,6 @@ public interface ClueActivityRelationMapper {
     //批量保存创建是线索和市场活动的关联关系
     int insertClueActivityRelationByList(List<ClueActivityRelation> list);
 
+    //删除关联关系
     int deleteClueActivityRelationByClueIdActivityId(ClueActivityRelation relation);
 }
