@@ -492,6 +492,16 @@
 					<td>zhangsan</td>
 					<td>已联系</td>
 				</tr>
+				<tr>
+					<td><input type="checkbox" /></td>
+					<td><a style="text-decoration: none; cursor: pointer;" onclick="window.location.href='workbench/clue/detailClue.do?id=ec6bcc9b923e4768a55719b68d781661';">王先生</a></td>
+					<td>动力节点</td>
+					<td>010-84846003</td>
+					<td>12345678901</td>
+					<td>广告</td>
+					<td>zhangsan</td>
+					<td>已联系</td>
+				</tr>
 				</tbody>
 			</table>
 		</div>
