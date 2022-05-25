@@ -32,4 +32,6 @@ public interface ActivityService {
 
     List<Activity> queryActivityForDetailByIds(String[] ids);
 
+    List<Activity> queryActivityForConvertByNameClueId(Map<String,Object> map);
+
 }
