@@ -1,6 +1,6 @@
 package com.bjpowernode.crm.settings.service.impl;
 
-import com.bjpowernode.crm.workbench.domain.DicValue;
+import com.bjpowernode.crm.settings.domain.DicValue;
 import com.bjpowernode.crm.settings.mapper.DicValueMapper;
 import com.bjpowernode.crm.settings.service.DicValueService;
 import org.springframework.beans.factory.annotation.Autowired;

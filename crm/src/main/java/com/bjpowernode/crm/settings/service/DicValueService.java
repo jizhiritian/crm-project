@@ -1,6 +1,6 @@
 package com.bjpowernode.crm.settings.service;
 
-import com.bjpowernode.crm.workbench.domain.DicValue;
+import com.bjpowernode.crm.settings.domain.DicValue;
 
 import java.util.List;
 

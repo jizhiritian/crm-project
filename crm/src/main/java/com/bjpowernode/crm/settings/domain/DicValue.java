@@ -1,4 +1,4 @@
-package com.bjpowernode.crm.workbench.domain;
+package com.bjpowernode.crm.settings.domain;
 
 public class DicValue {
     /**
